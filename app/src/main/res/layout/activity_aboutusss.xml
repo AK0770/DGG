@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/asdfghjkl"
+    tools:context=".aboutusss">
+
+    <TextView
+        android:id="@+id/txtt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="𝙰𝚋𝚘𝚞𝚝 𝚄𝚜"
+        android:textColor="#FFE600"
+        android:textSize="@dimen/_50sdp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/txttt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.714" />
+
+    <TextView
+        android:id="@+id/txttt"
+        android:layout_width="@dimen/_378sdp"
+        android:layout_height="@dimen/_410sdp"
+        android:padding="@dimen/_20sdp"
+        android:text="𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐚 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐞𝐧𝐝𝐥𝐞𝐬𝐬 𝐟𝐮𝐧 𝐚𝐧𝐝 𝐞𝐱𝐜𝐢𝐭𝐞𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐨𝐮𝐫 𝐜𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐜𝐚𝐩𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐠𝐚𝐦𝐞𝐬 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐭𝐡𝐫𝐢𝐥𝐥 𝐩𝐥𝐚𝐲𝐞𝐫𝐬 𝐨𝐟 𝐚𝐥𝐥 𝐚𝐠𝐞𝐬. 𝐖𝐡𝐞𝐭𝐡𝐞𝐫 𝐲𝐨𝐮'𝐫𝐞 𝐚 𝐜𝐚𝐬𝐮𝐚𝐥 𝐠𝐚𝐦𝐞𝐫 𝐨𝐫 𝐚 𝐬𝐞𝐚𝐬𝐨𝐧𝐞𝐝 𝐩𝐫𝐨, 𝐨𝐮𝐫 𝐝𝐢𝐯𝐞𝐫𝐬𝐞 𝐫𝐚𝐧𝐠𝐞 𝐨𝐟 𝐭𝐢𝐭𝐥𝐞𝐬 𝐩𝐫𝐨𝐦𝐢𝐬𝐞𝐬 𝐭𝐨 𝐤𝐞𝐞𝐩 𝐲𝐨𝐮 𝐞𝐧𝐭𝐞𝐫𝐭𝐚𝐢𝐧𝐞𝐝 𝐟𝐨𝐫 𝐡𝐨𝐮𝐫𝐬 𝐨𝐧 𝐞𝐧𝐝. 𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐭𝐨𝐝𝐚𝐲 𝐚𝐧𝐝 𝐞𝐦𝐛𝐚𝐫𝐤 𝐨𝐧 𝐚𝐧 𝐮𝐧𝐟𝐨𝐫𝐠𝐞𝐭𝐭𝐚𝐛𝐥𝐞 𝐠𝐚𝐦𝐢𝐧𝐠 𝐣𝐨𝐮𝐫𝐧𝐞𝐲 𝐰𝐢𝐭𝐡 𝐃𝐚𝐦𝐚𝐧𝐠𝐚𝐦𝐞𝐬!"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_25sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.484"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.386" />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="@dimen/_152sdp"
+        android:layout_height="@dimen/_124sdp"
+        android:src="@drawable/logo555"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txttt"
+        app:layout_constraintVertical_bias="0.431" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/asdfghjkl"
+    tools:context=".helpp">
+
+
+  <TextView
+      android:id="@+id/textView3"
+      android:layout_width="@dimen/_378sdp"
+      android:layout_height="@dimen/_443sdp"
+      android:padding="@dimen/_40sdp"
+      android:text="𝐓𝐞𝐚𝐜𝐡𝐞𝐫 𝐉𝐞𝐧𝐧𝐢𝐟𝐞𝐫 𝐂𝐚𝐧𝐝𝐨𝐫, 𝐰𝐡𝐨 𝐡𝐞𝐥𝐩𝐬 𝐲𝐨𝐮 𝐰𝐢𝐭𝐡 𝐲𝐨𝐮𝐫 𝐠𝐚𝐦𝐞𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐜𝐞𝐫𝐧𝐬, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐡𝐞𝐫 𝐨𝐧𝐜𝐞 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐚𝐥𝐫𝐞𝐚𝐝𝐲 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐚𝐧 𝐚𝐜𝐜𝐨𝐮𝐧𝐭. 𝐒𝐡𝐞 𝐰𝐢𝐥𝐥 𝐭𝐞𝐚𝐜𝐡 𝐲𝐨𝐮 𝐡𝐨𝐰 𝐭𝐨 𝐩𝐫𝐨𝐟𝐢𝐭 𝐚𝐭 𝐃𝐚𝐦𝐚𝐧 𝐆𝐚𝐦𝐞𝐬.                                                                                                 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐍𝐮𝐦𝐛𝐞𝐫𝐬:                                                                                                    +𝟗𝟏 𝟗𝟐𝟕𝟔𝟕 𝟓𝟎𝟑𝟕𝟗                                                                                      +𝟗𝟏 𝟖𝟓𝟑𝟎𝟗 𝟖𝟑𝟗𝟓𝟏                                                                                                            +𝟗𝟏 𝟕𝟐𝟒𝟗𝟕 𝟎𝟓𝟔𝟑𝟔                                                                                                        𝐄𝐦𝐚𝐢𝐥:                                                                   𝐭𝐜𝐡𝐫𝐣𝐧𝐟𝐫𝐜𝐧𝐝𝐫𝟑𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦                                                                         𝐝𝐚𝐦𝐚𝐧𝐠𝐚𝐦𝐞𝐬𝐣𝐧𝐟𝐫𝟑𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦"
+      android:textColor="@color/white"
+      android:textSize="@dimen/_22sdp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.484"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
