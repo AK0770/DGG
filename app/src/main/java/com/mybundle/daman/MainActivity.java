@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         signupp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://damanngames.com/"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://damangames.in/#/register?invitationCode=3MhJw2777807"));
                 startActivity(intent);
             }
         });
